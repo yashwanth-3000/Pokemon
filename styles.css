@@ -207,3 +207,9 @@ body {
   color: rgb(0, 0, 0);
   
 }
+   .Fire {
+      background-color: yellow ;
+      width: 50%;
+      border-radius: 5px;
+      text-align: center;
+  }
